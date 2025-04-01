@@ -2,11 +2,15 @@ clave unica ______________________________
 
 # Problema de Multi-Bandas (Multi-Armed Bandit): Teoría e Implementación
 
-La tarea se entrega por discord antes del miercoles de la siguiente clase. Incluye llenar cuidadosamente en latex todos los snippets mencionados aqui, mas el codigo ya sea con link a colab o al repositorio. No olviden poner su clave unica arriva.
+La tarea se entrega por discord antes del miercoles de la siguiente clase. Incluye llenar cuidadosamente en latex todos los snippets mencionados aqui, mas el codigo ya sea con link a colab o al repositorio. No olviden poner su clave unica. La idea es que investiguen, entiendan y proponga una solucion al problema. Utilicen chatgpt y los tutoriales de la tarea (cursor especialmente) para hacer codigo y entender el problema.  
+
+**Nota**  
+No pueden utilizar machine learning salvo regresion lineal si asi lo desean (no arboles, deep learning, etc..). 
 
 La proxima clase vamos a continuar con un ejercicio parecido, pero usando cadenas de markov. Vamos a modificar el bandit para que sea mas interesante ante cadenas de markov.  
 
-El lunes hay examen sobre estos ejercicios a papel y lapiz, para cada problema le ahre una pequenna modificacion y tendran que responder como lo resolverian.  
+**Examen**  
+El lunes hay examen sobre estos ejercicios a papel y lapiz, la calificacion sera el $min\{examen, ejercicios\}$, si $|examen - ejercicios|<1$ entonces sera el $maximo$. 
 
 
 ## 1. Introducción a los Problemas de Multi-Bandas
